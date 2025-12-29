@@ -1,7 +1,0 @@
-hi i am harsh 
-i love to code very much
-i also love to play cricket
-code is simple
-code is difficultw
-local
-a=1+2
